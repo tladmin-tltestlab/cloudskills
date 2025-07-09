@@ -1,2 +1,2 @@
-network_name = "project1-network"
-project_id = "tltestlab-project1"
+network_name = "mynetwork"
+project_id = "qwiklabs-gcp-00-98bb72fac00c"
